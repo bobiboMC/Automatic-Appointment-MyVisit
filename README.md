@@ -30,4 +30,11 @@ Install ```selenium``` library:
 ```pip install selenium```
 
 ## How to run the program:
-Simply run ```main.py``` as main script.
+in ```main.py``` At line:
+
+```phone_number.send_keys('ENTER YOUR PHONE')``` ,
+
+Replace with your phone number.
+
+Then,Simply run ```main.py``` as main script.
+
