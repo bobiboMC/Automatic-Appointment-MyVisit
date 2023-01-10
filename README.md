@@ -1,6 +1,3 @@
-# Automatic-Appointment-MyVisit
-Make Appointment for myVisit simpler.
-
 # Automatic-Appointment-myVisit
 Make a myVisit Appointment process much simpler.
 
